@@ -8,22 +8,22 @@ I'm a .NET Full Stack Web Developer over @ CSC Global with a wild passion for le
 ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white) ![GithubPages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![Gimp](https://img.shields.io/badge/Gimp-657D8B?style=for-the-badge&logo=gimp&logoColor=FFFFFF) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ## GitHub Stats:
-<a href="">
+<a href="https://github.com/TJRawlins?tab=stars">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=tjrawlins&show_icons=true&theme=radical" />
 </a>
-<a href="">
+<a href="https://github.com/TJRawlins?tab=repositories">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tjrawlins&hide_progress=false&theme=radical&layout=compact&langs_count=8&card_width=320" />
 </a>
 <br>
-<a href="">
+<a href="https://github.com/TJRawlins?tab=repositories">
   <img height=200 align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=TJRawlins&theme=radical&hide_border=false&card_width=400" />
 </a>
-<a href="">
+<a href="https://github.com/TJRawlins?tab=repositories">
   <img height=200 align="center" src="https://github-contributor-stats.vercel.app/api?username=TJRawlins&limit=5&theme=dark&combine_all_yearly_contributions=true" />
 </a>
 
 ## GitHub Trophies:
-![](https://github-profile-trophy.vercel.app/?username=TJRawlins&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+![https://github.com/TJRawlins?tab=repositories](https://github-profile-trophy.vercel.app/?username=TJRawlins&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ## Random Dev Quote:
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
