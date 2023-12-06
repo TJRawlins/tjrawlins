@@ -18,6 +18,9 @@ I'm a .NET Full Stack Web Developer with a wild passion for learning, creating, 
 <a href="">
   <img height=200 align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=TJRawlins&theme=radical&hide_border=false&card_width=320" />
 </a>
+<a href="">
+  <img height=200 align="center" src="https://github-contributor-stats.vercel.app/api?username=TJRawlins&limit=5&theme=dark&combine_all_yearly_contributions=true" />
+</a>
 
 ### GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=TJRawlins&theme=radical&no-frame=false&no-bg=true&margin-w=4)
