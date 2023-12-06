@@ -1,6 +1,6 @@
 ### Hi there, I'm <a href="https://www.tonyrawlins.com" rel="nofollow">Tony</a> 👋
 
-I'm a .NET Full Stack Web Developer with a wild passion for learning, creating, breaking and fixing things. Apart from that, I'm a sucker for nature and gardening, but mostly my wife and kids 😁
+I'm a .NET Full Stack Web Developer over @ CSC Global with a wild passion for learning new tech things, creating new tech things, breaking old tech things and fixing broken tech things. Basically, I like tech things 🤖. Apart from that, I'm a sucker for nature and gardening, but mostly my wife and kids 😁
 
 ## Skills:
 ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
