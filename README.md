@@ -2,7 +2,7 @@
 
 I'm a .NET Full Stack Web Developer over @ CSC Global with a wild passion for learning new tech things, creating new tech things, breaking old tech things and fixing broken tech things. Basically, I like tech things 🤖. Apart from that, I'm a sucker for nature and gardening, but mostly I'm crazy about my wife and kids 😁
 
-Connect with me on <a href="https://www.linkedin.com/in/tonyrawlins/" rel="nofollow"><img height=20 align="center" src="https://static-00.iconduck.com/assets.00/linkedin-icon-512x512-vkm0drb1.png"/></a>
+Connect with me on <a href="https://www.linkedin.com/in/tonyrawlins/" rel="nofollow"><img height=40 align="center" src="https://static-00.iconduck.com/assets.00/linkedin-icon-512x512-vkm0drb1.png"/></a>
 
 ## Skills:
 ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
