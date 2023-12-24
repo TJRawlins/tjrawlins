@@ -1,6 +1,6 @@
 ### Hi there, I'm <a href="https://www.tonyrawlins.com" rel="nofollow">Tony</a> 😎
 
-I'm a .NET Full Stack Web Developer over @ CSC Global with a wild passion for learning new tech things.
+I'm a .NET Full Stack Software Engineer over @ CSC Global with a wild passion for learning new tech.
 
 Connect with me on <a href="https://www.linkedin.com/in/tonyrawlins/" rel="nofollow"><img height=30 align="center" src="https://static-00.iconduck.com/assets.00/linkedin-icon-512x512-vkm0drb1.png"/></a>
 
