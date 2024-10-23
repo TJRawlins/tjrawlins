@@ -32,7 +32,6 @@ Connect with me on <a href="https://www.linkedin.com/in/tonyrawlins/" rel="nofol
 
 ---
 [![](https://visitcount.itsvg.in/api?id=TJRawlins&icon=0&color=0)](https://visitcount.itsvg.in)
-[![](https://visitcount.itsvg.in/api?id=tjrawlins&label=Profile%20Views&color=0&icon=5&pretty=true)](https://visitcount.itsvg.in)
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
